@@ -1,2 +1,2 @@
 # cargo_project
-Example of failed test
+Example of test
