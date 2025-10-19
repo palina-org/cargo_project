@@ -1,2 +1,2 @@
 # cargo_project
-test cargo_project_dependencies
+Example of failed test
